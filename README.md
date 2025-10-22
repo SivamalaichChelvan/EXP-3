@@ -41,14 +41,16 @@ switch2.
 
 Direct connection:
 CIRCUIT DIAGRAM: 
-![exp3 1](https://github.com/user-attachments/assets/34d70397-2598-4b3e-b055-73dc0e31a4fa)
+![exp3 1](https://github.com/user-attachments/assets/8fb28510-e1d8-422e-a580-405444bcd9fd)
+
 
 Tabulation:1
 	![exp3 2](https://github.com/user-attachments/assets/135603d7-15d2-4138-b026-4a9e9f9f38bc)
 
 Cross connection: 
 CIRCUIT DIAGRAM:
-![exp3 3](https://github.com/user-attachments/assets/e3860502-8fee-48a1-9356-108f992fff3c)
+![exp3 3](https://github.com/user-attachments/assets/f9a56e7a-66ce-4182-a311-494ae5d69400)
+
 
 Tabulation:2
 ![exp3 4](https://github.com/user-attachments/assets/3b5fd617-ccf6-4d23-93b4-f939431fd4c3)
